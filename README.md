@@ -26,10 +26,13 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspedrosoo&show_icons=true&theme=radical)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspedrosoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+      
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspedrosoo&show_icons=true&theme=radical)     
+        
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?matheuspedrosoo=willianrod&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    
+
 
  <!-- Contador de visitas -->
  <h3> Visitantes </h3>  
