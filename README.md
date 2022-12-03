@@ -4,8 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matheuspedrosoo//)](https://www.linkedin.com/in/matheuspedrosoo/)
 
-- Formado em Sistemas de Informação
-  , atuei com Suporte TI por mais de 3 anos, atualmente estudando Front-End com as principais tecnologias que são: React, Typescript, Next, em busca de uma oportunidade como desenvolvedor junior.
+- Graduado em Sistemas de Informação, atuando no momento como desenvolvedor Full Stack, extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional.
   <br>
 
 <div align="center">
